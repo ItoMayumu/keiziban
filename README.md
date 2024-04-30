@@ -1,1 +1,1 @@
-# keiziban
+2channel風の掲示板をflask,tailwind,sqlalchemyを使用して製作
